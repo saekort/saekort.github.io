@@ -1,6 +1,4 @@
-
-
-## Hello world 2
+## Introduction
 
 ```javascript
 /*
