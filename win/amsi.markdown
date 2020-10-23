@@ -8,7 +8,7 @@ The trick to bypassing AMSI is to effectively turn it off. Windows won't let you
 
 #### Powershell
 
-Example of a obfuscated AMSI powershell payload I have done, based on Rasta Mouse's work.
+Example of a obfuscated AMSI powershell payload I have done, based on Rasta Mouse's work:
 
 ```powershell
 $Simon= @"
@@ -41,5 +41,5 @@ $values = iex $command2
 
 ### Useful links
 
-Rasta mouse's AMSI bypass scripts: [https://github.com/rasta-mouse/AmsiScanBufferBypass](https://github.com/rasta-mouse/AmsiScanBufferBypass)
-Amsi.fail, automated AMSI bypass generation: [https://amsi.fail/](https://amsi.fail/)
+* Rasta mouse's AMSI bypass scripts: [https://github.com/rasta-mouse/AmsiScanBufferBypass](https://github.com/rasta-mouse/AmsiScanBufferBypass)
+* Amsi.fail, automated AMSI bypass generation: [https://amsi.fail/](https://amsi.fail/)
