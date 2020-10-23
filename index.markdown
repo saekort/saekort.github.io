@@ -1,13 +1,5 @@
 ## Introduction
 
-```javascript
-/*
-* TODO: Remove this function
-*/
+I put pentesting notes here.
 
-function remove($customer_id)
-    {
-        $this->Customer->remove($id);
-    }
-
-```
+* Github: [https://www.github.com/saekort](https://www.github.com/saekort)
