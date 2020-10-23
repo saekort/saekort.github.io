@@ -1,4 +1,10 @@
 toc:
+  - title: Password attacks
+    subfolderitems:
+    - page: Offline password attacks
+      url: /passwords/offline-password-attacks.html
+    - page: Online password attacks
+      url: /passwords/online-password-attacks.html
   - title: Recon
     subfolderitems:
       - page: Nmap
