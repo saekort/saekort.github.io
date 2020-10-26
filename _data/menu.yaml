@@ -8,16 +8,16 @@ toc:
   - title: Pivoting
     subfolderitems:
     - page: Linux pivoting
-    url: /pivot/pivoting-linux.html
+      url: /pivot/pivoting-linux.html
     - page: Windows pivoting
-    url: /pivot/pivoting-windows.html
+      url: /pivot/pivoting-windows.html
   - title: Recon
     subfolderitems:
-      - page: Nmap
-        url: /recon/nmap.html
+    - page: Nmap
+      url: /recon/nmap.html
   - title: Windows & AD
     subfolderitems:
-      - page: AMSI
-        url: /win/amsi.html
-      - page: REP roasting
-        url: /win/rep-roasting.html
+    - page: AMSI
+      url: /win/amsi.html
+    - page: REP roasting
+      url: /win/rep-roasting.html
