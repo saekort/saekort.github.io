@@ -5,6 +5,12 @@ toc:
       url: /passwords/offline-password-attacks.html
     - page: Online password attacks
       url: /passwords/online-password-attacks.html
+  - title: Pivoting
+    subfolderitems:
+    - page: Linux pivoting
+    url: /pivot/pivoting-linux.html
+    - page: Windows pivoting
+    url: /pivot/pivoting-windows.html
   - title: Recon
     subfolderitems:
       - page: Nmap
